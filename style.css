@@ -10,7 +10,7 @@ body {
     outline : none !important ;
     
     }
-    a{
+    li a{
         padding: 18px;
     }
     .form-group {
